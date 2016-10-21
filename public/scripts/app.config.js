@@ -1,7 +1,7 @@
 angular.module('characterApp')
        .config(function ($routeProvider, $locationProvider) {
         $routeProvider.when('/home', {
-          templateUrl: 'views/home.html',
+          templateUrl: 'views/index.html',
         }).when('/gabumon', {
           templateUrl: 'views/gabumon.html',
         }).when('/gatomon', {
