@@ -1,3 +1,31 @@
-.navbar-brand {
+span.brand {
   font-family: 'Anton', sans-serif;
+  color: steelblue;
+}
+
+#container {
+  margin-left: 5%;
+}
+
+img {
+  width: 50%;
+}
+
+.jumbotron.jumbotron-fluid {
+  background: rgba(255,255,255,.8) url("http://www.toonbarn.com/wordpress/wp-content/uploads/2013/12/Digimon-1-600x300.jpg") no-repeat center;
+  background-size: cover;
+}
+
+h1.display-3 {
+  font-family: 'Anton', sans-serif;
+  color: steelblue;
+  background-color: rgba(255,255,255,.7);
+  padding: 1%;
+}
+
+.lead {
+  font-family: 'Play', sans-serif;
+  color: gray;
+  background-color: rgba(255,255,255,.7);
+  padding: 1%;
 }
